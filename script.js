@@ -1,4 +1,4 @@
-const content = document.querySelector("#container");
+const content = document.querySelector("#hero");
 const newText = document.createElement("div");
 
 newText.textContent = "JS Test";
